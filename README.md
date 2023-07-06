@@ -1,6 +1,6 @@
 # goworkrbx
-*Stop spending time manually setting up your Rojo workflow*
-\
+**Stop spending time manually setting up your Rojo workflow**
+
  With this pure Go CLI you can configure your Rojo/Aftman workflow **once** and let goworkrbx lift the heavy working everytime you want to make a new project!
 
  ## Getting Started
