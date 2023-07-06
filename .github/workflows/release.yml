@@ -30,6 +30,6 @@ jobs:
         with:
           github_token: ${{ secrets.RELEASE_TOKEN }}
           goos: ${{ matrix.goos }}
-          garch: ${{ matrix.goarch }}
+          goarch: ${{ matrix.goarch }}
           binary_name: "goworkrbx"
           extra_files: README.md LICENSE
